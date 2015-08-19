@@ -30,11 +30,14 @@
 - **away_name** - Name of away team
 - **away_guid** - GUID of away team
 - **away_score** - Away team's final score
+- **away_periods** - Array of away team's period scores
 - **home_name** - Name of home team
 - **home_guid** - GUID of home team
 - **home_score** - Home team's final score
+- **home_periods** - Home team's period scores
 - **date** - Date of game
 - **time** - Time of game
+- **complete** - True/false if game is complete
 
 ## Example:
 ```javascript

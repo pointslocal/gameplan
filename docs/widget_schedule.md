@@ -15,7 +15,7 @@
 - count **[ int ]** - Number of results to return
 - offset **[ int ]** - Number of results to skip, useful for pagination
 - school **[ string ]** - School's name or internal GUID
-- date **[ string ]** - Date of games or 'latest' or 'next'
+- date **[ string ]** - Date of games or 'latest', 'next' or 'today-recent'.  See API docs /api/games for more detail.
 - conference **[ string ]** - Conference for games
 - game_id **[ int ]** - Restricts results to a single game
 
